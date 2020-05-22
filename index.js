@@ -1,4 +1,4 @@
-import users from '/users.js'; //eslint-disable-line
+import users from './users.js'; //eslint-disable-line
 
 /*
 ========== 1. Получить массив имен всех пользователей (поле name).========
